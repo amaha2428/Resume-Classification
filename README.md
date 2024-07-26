@@ -46,8 +46,8 @@ The dataset used for this project is named `UpdatedResumeDataSet.csv`. It contai
 ## Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/resume-classification.git
-   cd resume-classification
+   git clone https://github.com/amaha2428/Resume-Classification.git
+   cd Resume-Classification
    ```
 
 2. **Install the required packages**:
